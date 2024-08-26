@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Messaging UI Guidelines.
-- 🌱 I’m currently learning GitHub, VS Code, and basic HTML.
+- 🔭 I’m currently working on the AppExchange and Globalization teams.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me: on Slack
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: I'm obsessed with mosses.
+- ⚡ Fun fact: I can level anything by eye.
